@@ -1,44 +1,42 @@
 ## Hi, I’m Set 👋
 
-Frontend & Mobile Developer with an engineering background, currently transitioning into Game Development.
-
-🎓 Systems Engineering student (10th cycle, graduating 2026)  
-🎮 Aspiring Junior Game Developer  
-📱 Frontend & Mobile focused
+Frontend & Mobile Developer with an engineering background, transitioning into Game Development.
 
 ---
 
 ### 🧠 What I do
-- Build mobile and frontend applications with strong focus on UI and interaction
+- Build interactive mobile and frontend applications
 - Consume APIs and integrate application logic
-- Debug and trace issues step by step to solve problems efficiently
+- Debug issues step by step using IDE tools
 
 ---
 
 ### 🛠️ Tech Stack
-- **Mobile:** Android (Java), React Native  
-- **Frontend:** JavaScript, Tailwind  
-- **Game Dev:** Unity (learning), GameMaker, Ren’Py  
-- **Others:** REST APIs, Git, basic debugging & profiling
+
+| Area | Technologies |
+|-----|--------------|
+| Mobile | Android (Java), React Native |
+| Frontend | JavaScript, Tailwind |
+| Game Dev | Unity, GameMaker, Ren’Py |
+| Others | REST APIs, Git |
 
 ---
 
 ### 🚀 Projects
-- **Dental App (Android):** Mobile app for managing appointments between dentists and patients  
-- **Campus Navigation App:** React Native app to help students find classrooms faster  
-- **Game Prototypes:** Small Unity projects focused on movement, interaction and gameplay basics
+- **Dental App (Android)** – Appointment management app  
+- **Campus Navigation App** – React Native app for students  
+- **Game Prototypes** – Unity gameplay experiments
 
 ---
 
 ### 🌱 Currently learning
 - Unity Game Development (Pathway)
 - Gameplay programming fundamentals
-- Interactive design for games
 
 ---
 
-### 🎯 Goals
-I aim to work as a **Junior Game Developer**, **Frontend**, or **Mobile Developer**, building interactive and visual experiences that combine logic, design and creativity.
+### 🎯 Goal
+Junior Game Developer / Frontend / Mobile roles focused on interactive experiences.
 
 ---
 
