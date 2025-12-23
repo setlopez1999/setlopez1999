@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi, I’m Set 👋
 
-<!--
-**setlopez1999/setlopez1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & Mobile Developer with an engineering background, currently transitioning into Game Development.
 
-Here are some ideas to get you started:
+🎓 Systems Engineering student (10th cycle, graduating 2026)  
+🎮 Aspiring Junior Game Developer  
+📱 Frontend & Mobile focused
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I do
+- Build mobile and frontend applications with strong focus on UI and interaction
+- Consume APIs and integrate application logic
+- Debug and trace issues step by step to solve problems efficiently
+
+---
+
+### 🛠️ Tech Stack
+- **Mobile:** Android (Java), React Native  
+- **Frontend:** JavaScript, Tailwind  
+- **Game Dev:** Unity (learning), GameMaker, Ren’Py  
+- **Others:** REST APIs, Git, basic debugging & profiling
+
+---
+
+### 🚀 Projects
+- **Dental App (Android):** Mobile app for managing appointments between dentists and patients  
+- **Campus Navigation App:** React Native app to help students find classrooms faster  
+- **Game Prototypes:** Small Unity projects focused on movement, interaction and gameplay basics
+
+---
+
+### 🌱 Currently learning
+- Unity Game Development (Pathway)
+- Gameplay programming fundamentals
+- Interactive design for games
+
+---
+
+### 🎯 Goals
+I aim to work as a **Junior Game Developer**, **Frontend**, or **Mobile Developer**, building interactive and visual experiences that combine logic, design and creativity.
+
+---
+
+### 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/setlopez/
