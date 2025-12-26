@@ -16,8 +16,8 @@ Frontend & Mobile Developer with an engineering background, transitioning into G
 | Area | Technologies |
 |-----|--------------|
 | Mobile | Android (Java), React Native |
-| Frontend | JavaScript, Tailwind |
-| Game Dev | Unity, GameMaker, Ren’Py |
+| Frontend | JavaScript, Tailwind, React, Vue |
+| Game Dev | Unity, GML, Ren’Py |
 | Others | REST APIs, Git |
 
 ---
