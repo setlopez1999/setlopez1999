@@ -15,7 +15,7 @@ Frontend & Mobile Developer with an engineering background, transitioning into G
 
 | Area | Technologies |
 |-----|--------------|
-| Mobile | Android (Java), React Native |
+| Mobile | Android (Java), React Native, flutter |
 | Frontend | JavaScript, Tailwind, React, Vue |
 | Game Dev | Unity, GML, Ren’Py |
 | Others | REST APIs, Git |
@@ -26,7 +26,7 @@ Frontend & Mobile Developer with an engineering background, transitioning into G
 - **Dental App (Android)** – Appointment management app  
 - **Campus Navigation App** – React Native app for students  
 - **Game Prototypes** – Unity gameplay experiments
-
+- **MeNouts App Notes** - Flutter app for save notes
 ---
 
 ### 🌱 Currently learning
